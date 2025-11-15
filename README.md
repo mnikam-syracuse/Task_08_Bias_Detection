@@ -2,7 +2,6 @@
 
 This repository implements a full, reproducible pipeline for Syracuse University OPT **Research Task 08: Bias Detection in LLM Data Narratives**.
 
-It uses a **SAFE simulated LLM** (no API keys) so the code can be run and shared on GitHub without secrets. You can later replace the simulation with real API calls if you wish.
 
 ## Contents
 
